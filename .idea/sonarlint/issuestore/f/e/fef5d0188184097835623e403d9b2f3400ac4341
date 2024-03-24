@@ -1,0 +1,13 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÀËÏ¬8÷»Øıâ1
+L	java:S106"+Replace this use of System.out by a logger.(ÄÛÆúÿÿÿÿ8Œ¼Øıâ1
+E	java:S108")Either remove or fill this block of code.(¶†š8¼Øıâ1
+G	java:S106"+Replace this use of System.out by a logger.(ÕğÛª8 ¼Øıâ1
+S
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ8¢¼Øıâ1
+X
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8£¼Øıâ1
+P
+java:S1128"3Remove this unused import 'java.net.URLConnection'.(š¿šó8¥¼Øıâ1
+M
+java:S1144"0Remove this unused private "checkGoogle" method.(ÀËÏ¬8§¼Øıâ1

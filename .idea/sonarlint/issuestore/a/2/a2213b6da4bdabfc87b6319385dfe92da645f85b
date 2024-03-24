@@ -1,0 +1,8 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒëç1
+g	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8†ëç1
+f
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(¤éóc8¼èƒç1
+F	java:S106#"+Replace this use of System.out by a logger.(Ùºã=8§ëç1
+M
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8Êèƒç1
